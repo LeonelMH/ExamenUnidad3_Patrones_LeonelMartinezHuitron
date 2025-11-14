@@ -1,0 +1,8 @@
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\bin\Debug\ExamenU3P.exe.config
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\bin\Debug\ExamenU3P.exe
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\bin\Debug\ExamenU3P.pdb
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\obj\Debug\ExamenU3P.csproj.AssemblyReference.cache
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\obj\Debug\ExamenU3P.csproj.CoreCompileInputs.cache
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\obj\Debug\ExamenU3P.exe
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\obj\Debug\ExamenU3P.pdb
+C:\Users\Layonel\source\repos\ExamenU3P\ExamenU3P\obj\Debug\ExamenU3P.exe.config
